@@ -2,7 +2,7 @@
 #by sebastien
 #beweb
 
-salut = "hello world"
+message = "hello world"
 
-print salut + "\r\n"
-puts salut
+print message + "\r\n"
+puts message

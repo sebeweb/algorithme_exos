@@ -3,5 +3,5 @@
 #beweb
 
 
-salut = "hello world"
+message = "hello world"
 print salut

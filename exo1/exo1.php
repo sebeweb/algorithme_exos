@@ -3,7 +3,7 @@
 //by sebastien
 //beweb
 
-$salut = "hello world";
-echo $salut."\r\n";
+$message = "hello world";
+echo $message."\r\n";
 
 ?>

@@ -4,7 +4,7 @@
 
 public class exo1 {
     public static void main(String[] args) {
-        String salut = "Hello world";
+        String message = "Hello world";
         System.out.println(salut);
     }
 }
